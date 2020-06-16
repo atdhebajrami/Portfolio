@@ -6,7 +6,7 @@ import './App.css';
 const App = () => {
   const [vantaEffect, setVantaEffect] = useState(0);
   const myRef = useRef(null);
-  
+
   useEffect(() => {
     if (!vantaEffect) {
       setVantaEffect(GLOBE({

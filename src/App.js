@@ -39,7 +39,7 @@ const App = () => {
           <img className="SM" src={require("./Images/Facebook.png")} alt="Facebook" /></a>
         <a href="https://play.google.com/store/apps/developer?id=Atdhe+Bajrami&hl=en" target="__blank">
           <img className="SM" src={require("./Images/PlayStore.png")} alt="PlayStore" /></a>
-        <a href="https://www.linkedin.com/" target="__blank">
+        <a href="https://www.linkedin.com/in/atdhe-bajrami-b970031b2/" target="__blank">
           <img className="SM" src={require("./Images/LinkedIn.png")} alt="LinkedIn" /></a>
         <a href="https://www.github.com/atdhebajrami" target="__blank">
           <img className="SM" src={require("./Images/GitHub.png")} alt="GitHub" /></a>
